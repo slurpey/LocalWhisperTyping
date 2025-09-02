@@ -2,6 +2,21 @@
 
 A robust voice-to-text application for Windows that uses OpenAI's Whisper model to convert speech to text in real-time. Simply hold Ctrl+Shift to record your voice, release to automatically type the transcribed text into any active application.
 
+## 🤖 Need Help Installing? Try the AI Assistant!
+
+**NEW:** Get personalized installation help from our custom ChatGPT assistant:
+**[Local Whisper Typing Windows Helper](https://chatgpt.com/g/g-68b6e24e607c819184c9aaf5afe79b27-local-whisper-typing-windows-helper)**
+
+This AI assistant can:
+- Guide you through the entire installation process step-by-step
+- Help troubleshoot any issues you encounter
+- Answer questions specific to your Windows setup
+- Provide personalized support based on your experience level
+
+*Perfect for beginners who want interactive help during installation!*
+
+---
+
 ## Features
 
 - **Real-time Voice Typing**: Hold Ctrl+Shift to record, release to type

@@ -1,6 +1,20 @@
 # 🧠 Complete Beginner's Guide to LocalWhisperTyping
 *A step-by-step guide for absolute beginners. Every step is required. No programming knowledge expected.*
 
+## 🤖 Need Personal Help? Try Our AI Assistant!
+
+**Get interactive installation support:** **[Local Whisper Typing Windows Helper](https://chatgpt.com/g/g-68b6e24e607c819184c9aaf5afe79b27-local-whisper-typing-windows-helper)**
+
+This custom ChatGPT can:
+- Walk you through each step personally
+- Answer your specific questions in real-time
+- Help troubleshoot any problems you encounter
+- Adapt instructions to your exact Windows setup
+
+*Use this guide alongside the AI assistant, or follow this guide independently.*
+
+---
+
 ## ✅ What This Tool Does
 
 This tool listens to your voice and types what you say automatically:
