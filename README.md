@@ -23,6 +23,17 @@ A robust voice-to-text application for Windows that uses OpenAI's Whisper model 
 
 ## Installation
 
+### 🔰 For Absolute Beginners
+**New to programming?** Follow the complete step-by-step guide: **[BEGINNER_SETUP.md](BEGINNER_SETUP.md)**
+
+This guide includes:
+- Installing Python from scratch
+- Setting up all components
+- Troubleshooting common issues
+- No programming knowledge required
+
+### 🚀 For Experienced Users
+
 1. **Clone or Download** this repository:
    ```bash
    git clone https://github.com/slurpey/LocalWhisperTyping.git
@@ -141,7 +152,8 @@ The application runs with a microphone icon in your system tray with the followi
 LocalWhisperTyping/
 ├── lloydswhisper.py        # Main application
 ├── start_voice_typing.bat  # Easy startup script (Windows)
-├── README.md               # This file
+├── README.md               # Technical documentation (this file)
+├── BEGINNER_SETUP.md       # Complete beginner's installation guide
 ├── requirements.txt        # Python dependencies
 ├── .gitignore             # Git ignore patterns
 ├── LICENSE                # MIT License
